@@ -27,3 +27,9 @@ body{
 .gallery{
     flex-basis: 50%;
 }
+
+.heading{
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+}
