@@ -33,3 +33,9 @@ body{
     color: white;
     text-align: center;
 }
+
+.subheading{
+    color: #ddd;
+    margin-top: 10px;
+    text-align: center;
+}
