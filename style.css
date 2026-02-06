@@ -19,3 +19,7 @@ body{
     gap: 20px;
     background: linear-gradient(to right, #021308, #0b3317);
 }
+
+.left-text{
+    flex-basis: 30%;
+}
