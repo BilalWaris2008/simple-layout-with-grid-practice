@@ -23,3 +23,7 @@ body{
 .left-text{
     flex-basis: 30%;
 }
+
+.gallery{
+    flex-basis: 50%;
+}
