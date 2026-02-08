@@ -55,10 +55,13 @@ body {
     background-color: #222;
     background-blend-mode: hard-light;
     transition: all 1s ease-in-out;
+    cursor: pointer;
 }
 
 .box:hover {
     background-color: #999;
+    background-position: center;
+    box-shadow: 0 0 4px #fff;
 }
 
 .row-2 {
