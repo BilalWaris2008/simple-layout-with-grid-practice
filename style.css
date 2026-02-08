@@ -55,3 +55,7 @@ body {
     background-color: #222;
     background-blend-mode: hard-light;
 }
+
+.row-2{
+    grid-row: span 2;
+}
