@@ -6,6 +6,11 @@
     box-sizing: border-box;
 }
 
+::selection {
+    background-color: white;
+    color: #021308;
+}
+
 body {
     font-family: 'Bodoni Moda', serif;
     font-size: 1.2rem;
