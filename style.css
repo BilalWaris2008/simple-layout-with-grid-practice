@@ -29,7 +29,6 @@ body {
     flex-basis: 30%;
 }
 
-
 .heading {
     font-size: 3rem;
     color: white;
@@ -75,4 +74,21 @@ body {
 
 .col-2 {
     grid-column: span 2;
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+        padding-block: 20px;
+    }
+
+    .gallery {
+        width: 100%;
+        padding-inline: 12px;
+    }
+
+    .box {
+        grid-row: span 1;
+        grid-column: span 3;
+    }
 }
