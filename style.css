@@ -85,6 +85,7 @@ body {
     .gallery {
         width: 100%;
         padding-inline: 12px;
+        grid-auto-rows: 150px;
     }
 
     .box {
